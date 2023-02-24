@@ -10,19 +10,19 @@ img{
   justify-content: center;
 }
 #video{
-  width: 500px;
-  height: 300px;
+  width: 500%;
+  height: 300%;
   display:flex;
   justify-content: center;
 }
 #img{
-  width: 500px;
-  height: 300px;
-  display: table;
+  width: 500%;
+  height: 300%;
+  display: flex;
   justify-content: center;
 }
 #source{
-  display:table;
+  display:flex;
   justify content: center;
 }
 .row {
